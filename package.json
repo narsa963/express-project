@@ -1,0 +1,23 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "my first backend project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narsa963/express-project.git"
+  },
+  "author": "narsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narsa963/express-project/issues"
+  },
+  "homepage": "https://github.com/narsa963/express-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
